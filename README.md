@@ -79,7 +79,7 @@ A comprehensive Security Operations and Response (SOAR) platform designed for mo
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/sambhavmehra/SOAR-Soc-Asistant.git
 cd soar_soc_assistant
 
 # Install frontend dependencies
@@ -391,3 +391,4 @@ For support and questions:
 
 **Built for modern SOC teams with enterprise-grade security operations in mind.**
 **Empowering security professionals with AI-driven insights and automated response capabilities.**
+
