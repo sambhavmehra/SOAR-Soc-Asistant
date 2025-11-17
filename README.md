@@ -391,5 +391,3 @@ For support and questions:
 
 **Built for modern SOC teams with enterprise-grade security operations in mind.**
 **Empowering security professionals with AI-driven insights and automated response capabilities.**
-#   S O A R - S o c - A s i s t a n t  
- 
