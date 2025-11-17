@@ -1,0 +1,28 @@
+{
+  "u88Qb3R8dPc7UlRQeuvMtWu5H2z1": [
+    {
+      "id": "9ddeb90c-1318-4ca9-a9b4-6e3e786ba080",
+      "user_id": "u88Qb3R8dPc7UlRQeuvMtWu5H2z1",
+      "title": "",
+      "topic": "Incident Response",
+      "created_at": "2025-11-09T12:52:42.847291",
+      "last_activity": "2025-11-09T12:57:36.321686",
+      "messages": [
+        {
+          "id": "f68ac279-366b-4959-8d93-18ddf4730a5d",
+          "sender": "user",
+          "content": "",
+          "timestamp": "2025-11-09T12:52:42.847328"
+        },
+        {
+          "id": "e6df7251-e996-4dd1-a5ed-68dd461d2649",
+          "sender": "assistant",
+          "content": "Hello. What brings you here today? Do you have any specific cybersecurity-related questions or concerns you'd like to discuss? I'm here to help with security investigations, threat analysis, incident response, and general cybersecurity questions.\n\nAlso, I have access to our organization's recent security incidents, which might provide some context for our conversation. Would you like me to brief you on the latest incidents?\n\n(Remember, Incident 1: Unknown - Unknown severity - Status: Blocked, Incident 2: Unknown - Unknown severity - Status: )\n\n*(AI Engine)*",
+          "timestamp": "2025-11-09T12:57:36.321672"
+        }
+      ],
+      "message_count": 2,
+      "status": "active"
+    }
+  ]
+}
