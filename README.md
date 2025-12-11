@@ -381,15 +381,10 @@ For support and questions:
 - Review troubleshooting guides
 - Join our community discussions
 
-### Additional Resources
-- [API Documentation](./backend/README.md)
-- [Frontend Component Library](./src/components/)
-- [Workflow Examples](./workflow/)
-- [Configuration Guide](./docs/)
-
 ---
 
 **Built for modern SOC teams with enterprise-grade security operations in mind.**
+
 
 
 
